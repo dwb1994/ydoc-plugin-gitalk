@@ -1,0 +1,43 @@
+{
+  "_from": "ydoc-plugin-gitalk",
+  "_id": "ydoc-plugin-gitalk@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-jfOpqIoGd7GFE9ynpRf0ZvKToY9VZPkHZ8Cz1dXnbpbCvyv4h2M9jPNQB7zsuTBbmb6UbdIp9zMOvGngawEN/Q==",
+  "_location": "/ydoc-plugin-gitalk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ydoc-plugin-gitalk",
+    "name": "ydoc-plugin-gitalk",
+    "escapedName": "ydoc-plugin-gitalk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/",
+    "/ydoc-plugin-img-view"
+  ],
+  "_resolved": "https://registry.npmjs.org/ydoc-plugin-gitalk/-/ydoc-plugin-gitalk-0.0.3.tgz",
+  "_shasum": "502ae661f4fd9066a8b5904b0394c8ebf486a699",
+  "_spec": "ydoc-plugin-gitalk",
+  "_where": "/Users/qitmac000310/git/ydoc",
+  "author": {
+    "name": "wenbo.dong"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "YDoc plugin for gitalk",
+  "keywords": [
+    "ydoc"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ydoc-plugin-gitalk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}
