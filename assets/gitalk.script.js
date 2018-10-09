@@ -1,5 +1,4 @@
 $(function () {
-  var pathname = location.pathname;
   var $markdownBody = $('#markdown-body');
   console.log(ydoc_plugin_gitalk_json);
   if ($markdownBody && ydoc_plugin_gitalk_json) {
